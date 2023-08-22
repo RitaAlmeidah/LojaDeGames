@@ -66,6 +66,6 @@ Para utilizar a API, siga as instruções abaixo:
      - PUT - Atualizar categoria (`http://localhost:8080/categorias`) - JSON file
      - DELETE - Deletar a categoria (`http://localhost:8080/categorias/1`)
 
-## Autora
-
-- Rita Almeida(https://github.com/RitaAlmeidah))
+***
+## Desenvolvido por:
+- Rita Almeida https://github.com/RitaAlmeidah
