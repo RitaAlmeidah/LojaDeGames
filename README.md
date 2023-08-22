@@ -22,7 +22,7 @@ Certifique-se de que você tenha o seguinte instalado em seu sistema:
        [MySQL instalado e configurado], 
        [Insomnia (ou outro software de teste de API) instalado]
 ***
-## Passo 1: Clonar o Repositório
+<h3>👣 Passo 1: Clonar o Repositório</h3>
 
 Abra um terminal ou prompt de comando. <br/>
 Navegue até o diretório onde você deseja clonar o repositório. <br/>
@@ -32,7 +32,7 @@ Execute o seguinte comando para clonar o repositório:
 git clone https://github.com/RitaAlmeidah/LojaDeGames.git
 ```
 
-## Passo 2: Instalação e Configuração
+<h3>👣  Passo 2: Instalação e Configuração</h3>
 
 Siga os passos abaixo para instalar e configurar o ambiente do projeto:
 
@@ -42,7 +42,7 @@ Siga os passos abaixo para instalar e configurar o ambiente do projeto:
 4. Execute o script SQL fornecido para criar o banco de dados e as tabelas necessárias.
 5. Inicie a aplicação.
 
-## Passo 3: Utilização
+<h3>👣  Passo 3: Utilização</h3>
 Para utilizar a API, siga as instruções abaixo:
 
 1. Abra o Insomnia (ou outro software de teste de API).
